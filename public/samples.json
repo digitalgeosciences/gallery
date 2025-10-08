@@ -6,13 +6,13 @@
       "images": [
         {
           "technique": "BSE",
-          "url": "/src/assets/1-illitecoatingBSE.png",
-          "thumbnail": "/src/assets/1-illitecoatingQEMSCAN-thumb.png"
+          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingBSE.png",
+          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingQEMSCAN-thumb.png"
         },
         {
           "technique": "QEMSCAN",
-          "url": "/src/assets/1-illitecoatingQEMSCAN.png",
-          "thumbnail": "/src/assets/1-illitecoatingQEMSCAN-thumb.png"
+          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingQEMSCAN.png",
+          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingQEMSCAN-thumb.png"
         }
       ],
       "description": "Grain coating illite",
@@ -25,8 +25,8 @@
       "images": [
         {
           "technique": "TEST",
-          "url": "/src/assets/2-template-800-600.png",
-          "thumbnail": "/src/assets/2-template-400-300.png"
+          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/2-template-800-600.png",
+          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/2-template-400-300.png"
         }
       ],
       "description": "Test",
@@ -39,8 +39,8 @@
       "images": [
         {
           "technique": "Minjur Sandstone",
-          "url": "/src/assets/3-minjur.png",
-          "thumbnail": "/src/assets/3-minjur-thumb.png"
+          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/3-minjur.png",
+          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/3-minjur-thumb.png"
         }
       ],
       "description": "Minjur",
