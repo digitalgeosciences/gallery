@@ -90,8 +90,8 @@ const Index = () => {
             <div className="text-center mb-8">
               <h2 className="text-3xl font-bold text-foreground mb-4">Geological Analysis Gallery</h2>
               <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-                Explore our collection of {samplesData.samples.length} geological samples analyzed using advanced imaging techniques. 
-                Click on any sample to view detailed analysis and imaging results.
+                Explore our multiscaled collection of {samplesData.samples.length} geological photos. 
+                Click on any photo to view detailed information.
               </p>
             </div>
             

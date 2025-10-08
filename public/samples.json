@@ -6,13 +6,13 @@
       "images": [
         {
           "technique": "BSE",
-          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingBSE.png",
-          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingQEMSCAN-thumb.png"
+          "url": "https://raw.githubusercontent.com/digitalgeosciences/gallery/refs/heads/main/src/assets/1-illitecoatingBSE.png",
+          "thumbnail": "https://raw.githubusercontent.com/digitalgeosciences/gallery/refs/heads/main/src/assets/1-illitecoatingQEMSCAN-thumb.png"
         },
         {
           "technique": "QEMSCAN",
-          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingQEMSCAN.png",
-          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/1-illitecoatingQEMSCAN-thumb.png"
+          "url": "https://raw.githubusercontent.com/digitalgeosciences/gallery/refs/heads/main/src/assets/1-illitecoatingQEMSCAN.png",
+          "thumbnail": "https://raw.githubusercontent.com/digitalgeosciences/gallery/refs/heads/main/src/assets/1-illitecoatingQEMSCAN-thumb.png"
         }
       ],
       "description": "Grain coating illite",
@@ -20,27 +20,13 @@
       "tags": ["clayminerals", "illite", "sandstone", "feldspar", "silicates", "coating"]
     },
     {
-      "id": "sample002",
-      "name": "Test",
-      "images": [
-        {
-          "technique": "TEST",
-          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/2-template-800-600.png",
-          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/2-template-400-300.png"
-        }
-      ],
-      "description": "Test",
-      "reference": "Davis, L. (2022).",
-      "tags": ["tag1", "tag2"]
-    },
-    {
       "id": "sample003",
       "name": "Minjur",
       "images": [
         {
           "technique": "Minjur Sandstone",
-          "url": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/3-minjur.png",
-          "thumbnail": "https://github.com/digitalgeosciences/gallery/blob/main/src/assets/3-minjur-thumb.png"
+          "url": "https://raw.githubusercontent.com/digitalgeosciences/gallery/refs/heads/main/src/assets/3-minjur.png",
+          "thumbnail": "https://raw.githubusercontent.com/digitalgeosciences/gallery/refs/heads/main/src/assets/3-minjur-thumb.png"
         }
       ],
       "description": "Minjur",
